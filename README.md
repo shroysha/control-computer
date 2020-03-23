@@ -1,5 +1,4 @@
 # control-computer
-{*> see code: [https://github.com/shroysha/control-computer](https://github.com/shroysha/control-computer)*}
 
 ## Subprojects 
 1. [control-computer-app-client](https://github.com/shroysha/control-computer-app-client)
