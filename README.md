@@ -1,5 +1,5 @@
 # control-computer
-> see code: [https://github.com/shroysha/shroysha.github.io/tree/master/control-computer](https://github.com/shroysha/shroysha.github.io/tree/master/control-computer)
+> see code: [https://github.com/shroysha/control-computer](https://github.com/shroysha/control-computer)
 
 ## Subprojects 
 1. [control-computer-app-client](control-computer-app-client)
