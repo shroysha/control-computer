@@ -1,0 +1,51 @@
+[submodule "archive"]
+	path = archive
+	url = git://github.com/shroysha/archive.git
+[submodule "control-projector"]
+	path = control-projector
+	url = git://github.com/shroysha/control-projector.git
+[submodule "pong"]
+	path = pong
+	url = git://github.com/shroysha/pong.git
+[submodule "py"]
+	path = py
+	url = git://github.com/shroysha/py.git
+[submodule "chatroom/chatroom-app-client"]
+	path = chatroom/chatroom-app-client
+	url = git://github.com/shroysha/chatroom-app-client.git
+[submodule "chatroom/chatroom-ejb"]
+	path = chatroom/chatroom-ejb
+	url = git://github.com/shroysha/chatroom-ejb.git
+[submodule "control-computer/control-computer-app-client"]
+	path = control-computer/control-computer-app-client
+	url = git://github.com/shroysha/control-computer-app-client.git
+[submodule "control-computer/control-computer-ejb"]
+	path = control-computer/control-computer-ejb
+	url = git://github.com/shroysha/control-computer-ejb.git
+[submodule "glyphs/glyphs-app-client"]
+	path = glyphs/glyphs-app-client
+	url = git://github.com/shroysha/glyphs-app-client.git
+[submodule "glyphs/glyphs-ejb"]
+	path = glyphs/glyphs-ejb
+	url = git://github.com/shroysha/glyphs-ejb.git
+[submodule "glyphs/glyphs-war"]
+	path = glyphs/glyphs-war
+	url = git://github.com/shroysha/glyphs-war.git
+[submodule "pokemon/pokemon-app-client"]
+	path = pokemon/pokemon-app-client
+	url = git://github.com/shroysha/pokemon-app-client.git
+[submodule "pokemon/pokemon-ejb"]
+	path = pokemon/pokemon-ejb
+	url = git://github.com/shroysha/pokemon-ejb.git
+[submodule "scada/scada-ejb"]
+	path = scada/scada-ejb
+	url = git://github.com/shroysha/scada-ejb.git
+[submodule "control-computer-app-client"]
+	path = control-computer-app-client
+	url = https://github.com/shroysha/control-computer-app-client.git
+[submodule "control-computer-ejb"]
+	path = control-computer-ejb
+	url = https://github.com/shroysha/control-computer-ejb.git
+[submodule "control-computer-war"]
+	path = control-computer-war
+	url = https://github.com/shroysha/control-computer-war.git

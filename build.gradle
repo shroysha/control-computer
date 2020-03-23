@@ -1,0 +1,23 @@
+buildscript {
+apply from: "dev.shroysha.gradle"
+
+}
+
+plugins {
+id("dev.shroysha.plugin")
+id("ear")
+
+}
+
+repositories {
+mavenCentral()
+gradlePluginPortal()
+
+}
+
+dependencies {
+deploy project(path: ":control-computer:control-computer-app-client", configuration: "archives")
+deploy project(path: ":control-computer:control-computer-ejb", configuration: "archives")
+deploy project(path: ":control-computer:control-computer-war", configuration: "archives")
+
+}
