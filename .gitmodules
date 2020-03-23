@@ -43,9 +43,12 @@
 [submodule "control-computer-app-client"]
 	path = control-computer-app-client
 	url = https://github.com/shroysha/control-computer-app-client.git
+	branch = master
 [submodule "control-computer-ejb"]
 	path = control-computer-ejb
 	url = https://github.com/shroysha/control-computer-ejb.git
+	branch = master
 [submodule "control-computer-war"]
 	path = control-computer-war
 	url = https://github.com/shroysha/control-computer-war.git
+	branch = master
