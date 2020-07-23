@@ -6,7 +6,7 @@
 1. [control-computer-war](https://github.com/shroysha/control-computer-war)
 
 ## Description
-null
+Control computer EAR
 
 ### Tags
 [EAR]
